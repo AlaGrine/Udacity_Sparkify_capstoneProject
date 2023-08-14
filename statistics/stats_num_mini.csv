@@ -1,0 +1,6 @@
+metric,q1_0,q1_1,median_0,median_1,mean_0,mean_1,q3_0,q3_1,std_0,std_1,dataset
+num_sessions,6,5,11,8,15,10,19,12,16,9,mini
+session interval (minutes),64,32,108,58,146,70,180,86,140,54,mini
+avg_session_length (minutes),166,127,268,214,297,260,392,322,174,184,mini
+count_songs,321,209,940,576,1348,863,2005,1154,1425,852,mini
+count_unique_artists,227,144,588,386,751,520,1138,763,633,456,mini

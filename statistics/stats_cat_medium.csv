@@ -1,0 +1,12 @@
+feature,category,churn rate,dataset
+gender,M,21.6,medium
+gender,F,22.727272727272727,medium
+level,free,22.16216216216216,medium
+level,paid,23.364485981308412,medium
+browser,Safari,20.754716981132077,medium
+browser,Firefox,26.262626262626263,medium
+browser,Gecko,27.77777777777778,medium
+browser,Trident,15.384615384615385,medium
+status,200,22.098214285714285,medium
+status,307,22.19730941704036,medium
+status,404,17.937219730941703,medium

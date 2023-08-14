@@ -1,0 +1,12 @@
+feature,category,churn rate,dataset
+gender,M,26.446280991735538,mini
+gender,F,19.23076923076923,mini
+level,free,23.58974358974359,mini
+level,paid,21.818181818181817,mini
+browser,Safari,21.47239263803681,mini
+browser,Firefox,32.0,mini
+browser,Gecko,14.285714285714286,mini
+browser,Trident,0.0,mini
+status,200,23.11111111111111,mini
+status,307,23.318385650224215,mini
+status,404,18.803418803418804,mini
